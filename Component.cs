@@ -8,5 +8,6 @@ public class Component : MonoBehaviour
 
     void Update()
     {
+        Debug.LogWarning("");
     }
 }
